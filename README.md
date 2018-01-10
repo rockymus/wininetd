@@ -1,5 +1,5 @@
 # wininetd
-Guide for starting isolated processes on your network with wininetd
+### Guide for starting isolated processes on your network with wininetd
 
 1. Download wininetd and netcat from following links : http://xmailserver.org/wininetd.html https://eternallybored.org/misc/netcat/ and clone this repository.
 
